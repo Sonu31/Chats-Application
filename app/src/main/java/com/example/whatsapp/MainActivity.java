@@ -61,13 +61,22 @@ binding.tablayout.setupWithViewPager(binding.viewpager);
 
             switch (item.getItemId()){
                 case R.id.settings:
-                    Toast.makeText(this, "Setting  Clicked", Toast.LENGTH_SHORT).show();
+                    Intent i= new Intent(MainActivity.this , SettingsActivity.class );
+                    startActivity(i);
                     break;
                 case R.id.logout:
                     auth.signOut();
                     Intent intent =new Intent (MainActivity.this,SignUpActivity.class);
                     startActivity(intent);
                     break;
+
+                case R.id.GroupChat:
+                    Intent intentt =new Intent (MainActivity.this,GroupChatActivity.class);
+                    startActivity(intentt);
+
+                break;
+
+
             }
             return super.onOptionsItemSelected(item);
         }

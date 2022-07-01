@@ -40,6 +40,7 @@
             android:maxWidth="270dp"
             android:minWidth="50dp"
             android:text="sk"
+            android:textColor="@color/black"
 
             app:layout_constraintBottom_toTopOf="@+id/senderTime"
             app:layout_constraintStart_toStartOf="parent"

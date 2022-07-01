@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal"
-    android:background="#90B8CA"
+    android:background="#CAD9DF"
 
 
     >
@@ -32,6 +32,7 @@
             android:layout_height="wrap_content"
             android:paddingTop="5dp"
             android:paddingBottom="5dp"
+            android:textColor="@color/black"
             android:text="sonu kumar"
             android:textSize="18sp"
             android:textStyle="bold" />
@@ -41,6 +42,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:paddingTop="2dp"
+            android:textColor="@color/teal_700"
             android:paddingBottom="2dp"
             android:text="Last message" />
     </LinearLayout>

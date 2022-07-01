@@ -26,6 +26,31 @@
         <entry key="..\:/Users/IT RENTAL/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/sample_sender.xml" value="0.33" />
         <entry key="..\:/Users/IT RENTAL/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/sample_show_user.xml" value="0.18" />
         <entry key="..\:/Users/IT RENTAL/AndroidStudioProjects/WhatsApp/app/src/main/res/menu/menu.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/drawable/bg_reciver.xml" value="0.2203125" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/drawable/bg_sender.xml" value="0.2203125" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/drawable/btn_bg.xml" value="0.1" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/drawable/ic_call.xml" value="0.2203125" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/drawable/ic_facebook.xml" value="0.2203125" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/drawable/ic_google.xml" value="0.2203125" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/drawable/ic_left_arrow.xml" value="0.2203125" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/drawable/ic_send.xml" value="0.2203125" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/drawable/ic_video_call.xml" value="0.2203125" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/drawable/leftarrow.xml" value="0.2203125" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/drawable/linear_bg.xml" value="0.1" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_chat_detail.xml" value="0.33" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_group_chat.xml" value="0.22" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_settings.xml" value="0.25" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_sign_in.xml" value="0.1" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_sign_up.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/fragment_calls_fragments.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/fragment_chats.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/fragment_status.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/sample_reciever.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/sample_sender.xml" value="0.25" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/sample_show_user.xml" value="0.22" />
+        <entry key="..\:/Users/IT RENTAL/My_New_Project_2022/AndroidStudioProjects/WhatsApp/app/src/main/res/menu/menu.xml" value="0.1" />
       </map>
     </option>
   </component>
